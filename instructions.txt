@@ -1,0 +1,4 @@
+Commands : 
+To install packages: "npm install"
+To run webpack dev server: "npm run serve"
+To produciton: "npm run build"

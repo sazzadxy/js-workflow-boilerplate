@@ -1,4 +1,5 @@
 Commands : 
+To initialize a project and create the package.json file: "npm init"
 To install packages: "npm install"
 To run webpack dev server: "npm run serve"
 To produciton: "npm run build"
